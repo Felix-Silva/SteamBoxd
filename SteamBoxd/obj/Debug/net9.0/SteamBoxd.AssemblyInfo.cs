@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SteamBoxd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78e553723833e642d3a24051187d2003cc903d06")]
 [assembly: System.Reflection.AssemblyProductAttribute("SteamBoxd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SteamBoxd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
