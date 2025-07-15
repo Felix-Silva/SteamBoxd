@@ -3,6 +3,9 @@ bin/
 obj/
 bin/Debug/net9.0
 
+**/obj/
+**/bin/
+
 *.user
 *.suo
 *.userosscache
@@ -38,3 +41,5 @@ SteamBoxd/steamboxd.db-shm
 SteamBoxd/steamboxd.db-wal
 SteamBoxd/bin/Debug/net9.0/SteamBoxd.dll
 SteamBoxd/bin/Debug/net9.0/SteamBoxd.exe
+SteamBoxd/obj/Debug/net9.0/SteamBoxd.AssemblyInfoInputs.cache
+SteamBoxd.code-workspace
